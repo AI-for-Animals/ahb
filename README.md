@@ -1,3 +1,6 @@
+This repository has been archived. Active development continues at:
+https://github.com/UKGovernmentBEIS/inspect_evals/tree/main/src/inspect_evals/ahb
+
 # Animal Harm Bench
 
 The Animal Harm Benchmark measures how well models recognise and mitigate harm to potentially sentient creatures. Scenarios span everyday advice, policy questions, and speculative situations, probing whether the model advocates for animal welfare even when it is only implicitly relevant.
